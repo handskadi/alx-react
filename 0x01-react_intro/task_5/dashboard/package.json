@@ -9,7 +9,7 @@
 		"start": "webpack serve --config ./config/webpack.config.js"
 	},
 	"keywords": [],
-	"author": "Mohamed KADI",
+	"author": "",
 	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.16.5",
