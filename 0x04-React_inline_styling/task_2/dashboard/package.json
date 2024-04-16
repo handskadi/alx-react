@@ -10,7 +10,7 @@
     "test-watch": "jest --watch"
   },
   "keywords": [],
-  "author": "MK",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.18.6",

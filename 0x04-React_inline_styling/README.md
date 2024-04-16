@@ -1,1 +1,1 @@
-## 0x04. React inline styling - MK
+## 0x04. React inline styling
